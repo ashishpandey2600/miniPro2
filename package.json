@@ -1,0 +1,25 @@
+{
+  "name": "minipro2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lines.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/ashishpandey2600/miniPro2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ashishpandey2600/miniPro2/issues"
+  },
+  "homepage": "https://github.com/ashishpandey2600/miniPro2#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "hbs": "^4.2.0",
+    "mongoose": "^6.8.0",
+    "nodemon": "^2.0.20"
+  }
+}
