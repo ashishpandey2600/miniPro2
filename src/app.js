@@ -17,6 +17,9 @@ app.use(express.urlencoded({extended:false}));
 app.set("view engine","hbs");
 app.use(express.static(static_path))
 
+app.use(express.static('public'));       //to define public path for css and javascript
+
+app.use('/js',express.static(__dirname+'./../public/js'));   //to add external js files
 
 
 
