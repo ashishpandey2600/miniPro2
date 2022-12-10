@@ -1,3 +1,9 @@
 # miniPro2
 
-# to run the project just run npm run dev in the terminal after installing nodemon in your system
+# For unning this project follow these steps:
+# Download this project and run npm install on your terminal
+# install npm packages of hbs,express by running
+# ->npm i express
+#-> npm i hbs
+# after all this just run the following command and write localhost:3000 on your browser
+#->npm run dev
