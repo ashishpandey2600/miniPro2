@@ -1,6 +1,6 @@
 # miniPro2
 
-# For unning this project follow these steps:
+# For running this project follow these steps:
 # Download this project and run npm install on your terminal
 # install npm packages of hbs,express by running
 # ->npm i express
